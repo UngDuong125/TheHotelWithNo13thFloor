@@ -17,6 +17,7 @@ Bộ tài liệu này mở rộng phần "ý tưởng ban đầu" thành tài li
 | 08 | [08_Art_Audio_UI.md](08_Art_Audio_UI.md) | Phong cách hình ảnh, bảng màu, danh sách asset, âm thanh, UI | Artist, Audio |
 | 09 | [09_Ke_Hoach_San_Xuat.md](09_Ke_Hoach_San_Xuat.md) | Vai trò (theo mục I của đề), mốc tiến độ, backlog, rủi ro, phát hành | Producer |
 | 10 | [10_Kiem_Thu_QA.md](10_Kiem_Thu_QA.md) | Kế hoạch kiểm thử, test case, kiểm tra softlock và các đường kết thúc | QA |
+| 11 | [11_Danh_Sach_Asset.md](11_Danh_Sach_Asset.md) | Danh sách và mô tả toàn bộ asset (hình, UI, VFX, nhạc, SFX, font, phát hành) | Artist, Audio, Programmer |
 
 ## Các giả định (file gốc chưa nêu — nhóm hãy xác nhận hoặc sửa)
 
