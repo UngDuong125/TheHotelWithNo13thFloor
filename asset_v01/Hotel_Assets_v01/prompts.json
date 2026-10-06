@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BG02",
+    "prompt": "Create a production game background asset BG02 for 'The Hotel With No 13th Floor'. Single wide 16:9 landscape illustration, no collage. Vietnamese aging hotel lobby in 2024, architecture renovated in the late 1990s: patterned cement tiles, worn terrazzo, moss-green wood doors, aged dark wood, small old sofa at left, reception passage at right, tarnished brass elevator doors near center-right, warm amber ceiling lamps, long quiet shadows, blank notice board on left wall. Eye-level fixed camera, subtly flattened painterly perspective appropriate to a static point-and-click adventure. Hand-painted dark watercolor washes and delicate graphite pencil contours, tactile paper texture, restrained atmospheric psychological horror, beautiful detailed environment but readable interactable areas. Palette charcoal #14110F, warm ivory #EDE6D5, ochre light #E0B15A, moss #2F4A45. Clean background plate: NO characters, NO portable items, NO clock, NO calendar, NO numbers, NO readable text, NO UI or logos. Clear floor foreground with room for interface overlay; keep important architecture inside central 80%. Not photorealistic, not 3D render, not anime. Full bleed scene.",
+    "folder": "backgrounds",
+    "name": "L01_lobby",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-14fd96ab-7a80-48b3-b0ad-d8513b6fd0cc.png"
+  },
+  {
+    "id": "BG04",
+    "folder": "backgrounds",
+    "name": "L02_reception",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single wide 16:9 clean environment plate, closer frontal view of worn dark wood hotel reception desk, empty desktop, brass bell permanently fixed at left, empty rectangular board behind desk for separate key puzzle overlay, closed drawers, empty cubbies, moss-green wall, amber desk lamp, no portable quest items, no text, no people. Same hotel as reference, slightly simpler less ornate.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-c10e0bfa-6def-4164-8382-1c3e0c087c1f.png"
+  },
+  {
+    "id": "BG06",
+    "folder": "backgrounds",
+    "name": "L03_security",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single wide 16:9 clean environment plate of cramped Vietnamese hotel security office. Old desk, bank of four CRT CCTV monitors with dark blank screens, locked metal locker at right, empty notice board, chipped green paint, wire fan, low warm lamp. No people, no cassette player, no clock/calendar/text or portable props.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-a3073d35-b230-4bee-a3af-217dc4bf01b4.png"
+  },
+  {
+    "id": "BG09",
+    "folder": "backgrounds",
+    "name": "L04_elevator",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single wide 16:9 environment plate from inside an old small hotel elevator facing closed tarnished brass doors, aged green marble trim, cloudy side mirror, slim rectangular empty recessed control panel on right clearly visible for separately overlaid buttons, dim amber overhead light. No people, no text, no numbers, no control buttons baked into blank panel.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-dabed42e-4813-4428-ae8d-dc957a95a8e8.png"
+  },
+  {
+    "id": "BG16",
+    "folder": "backgrounds",
+    "name": "corridor_base",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single wide 16:9 clean environment plate, deep quiet hotel hallway with green wooden guestroom doors, plaster walls, terrazzo floor and a faded runner, amber sconces, three empty small door-number plaques on clearly visible doors, one blank rectangular painting frame and an unlettered exit sign. Subtle eerie perspective. No people, no numbers, no portable objects. Readable doors in middle 80 percent.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-b34207de-eac8-41da-bc4d-221d9a5dcb57.png"
+  },
+  {
+    "id": "NPC00",
+    "folder": "characters",
+    "name": "chau_neutral",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single character dialogue portrait, waist-up with complete head and both shoulders and hands unobscured, centered with generous transparent margins, three quarter view looking slightly toward viewer left, softly lit amber from upper left, hand-painted illustration more visibly watercolor and pencil than photorealism. Minh Chau, a Vietnamese woman age 26, low tied black ponytail, oval face, natural tired attentive eyes, white long sleeve shirt beneath a dark moss green waistcoat, small closed silver heart locket on a thin chain. Neutral observant expression, practical hotel night receptionist uniform, no hat. Only one person, no scenery, no lettering, no text, no cast shadow backdrop. True transparent alpha background.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-ad6d8510-80bc-4cf4-a288-473bc4d212f0.png"
+  },
+  {
+    "id": "NPC01",
+    "folder": "characters",
+    "name": "hanh_neutral",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single character dialogue portrait, waist-up with complete head and both shoulders and hands unobscured, centered with generous transparent margins, three quarter view looking slightly toward viewer left, softly lit amber from upper left, hand-painted illustration more visibly watercolor and pencil than photorealism. Hanh, Vietnamese female hotel manager age 54, black hair in a tight neat bun with a little gray, angular dignified face, dark plum traditional ao dai, small modest earrings, controlled polite smile concealing unease. No locket. Only one person, no scenery, no lettering, no text, no cast shadow backdrop. True transparent alpha background.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-57129631-99df-4450-ac0b-b2194b447a96.png"
+  },
+  {
+    "id": "NPC02",
+    "folder": "characters",
+    "name": "bao_neutral",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single character dialogue portrait, waist-up with complete head and both shoulders and hands unobscured, centered with generous transparent margins, three quarter view looking slightly toward viewer left, softly lit amber from upper left, hand-painted illustration more visibly watercolor and pencil than photorealism. Bao, Vietnamese male security guard age 62, short thinning salt-and-pepper hair, deeply lined face, tired kind guarded eyes, slightly slumped shoulders, worn muted blue-gray short sleeve security shirt with shoulder straps, plain dark trousers, key ring at belt, modest unbranded badge. No hat. Only one person, no scenery, no lettering, no text, no cast shadow backdrop. True transparent alpha background.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-3f9057ec-f622-47a3-bbd0-58da6db9c978.png"
+  },
+  {
+    "id": "NPC03",
+    "folder": "characters",
+    "name": "tuan_neutral",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single character dialogue portrait, waist-up with complete head and both shoulders and hands unobscured, centered with generous transparent margins, three quarter view looking slightly toward viewer left, softly lit amber from upper left, hand-painted illustration more visibly watercolor and pencil than photorealism. Tuan, Vietnamese male kitchen assistant age 24, short slightly messy black hair, lean youthful face, anxious but friendly eyes, faded pale gray shirt with sleeves rolled up, worn tan kitchen apron, small old healed burn scar on forearm, no gore. Only one person, no scenery, no lettering, no text, no cast shadow backdrop. True transparent alpha background.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-5010f1a9-b479-4e13-973a-02c94d5b9178.png"
+  },
+  {
+    "id": "BG11",
+    "folder": "backgrounds",
+    "name": "L05_kitchen",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Wide 16:9 single environment plate. Modest Vietnamese hotel industrial kitchen: dull stainless preparation table, tiled walls, gas stove, pots permanently on wall hooks, closed lower cabinets, refrigerator door at rear, cool fluorescent tube and a little warm light from service doorway. No portable quest props, no text, no people. Clearly utilitarian, not luxurious.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-72f5a024-df77-4958-b99c-7aba292a3d82.png"
+  },
+  {
+    "id": "BG15",
+    "folder": "backgrounds",
+    "name": "L08_storage",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Wide 16:9 single environment plate. Small hotel lost-property storeroom with old wooden shelving, dusty suitcases, folded blankets, empty open shelf bays, umbrellas in a stand, a plain closed chest of drawers. Warm bare bulb, green peeling walls. No records, photographs, keys, or quest props baked into scene, no people or text.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-603e6189-9682-4290-9573-40727ab2996c.png"
+  },
+  {
+    "id": "BG26",
+    "folder": "backgrounds",
+    "name": "L13_office",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Wide 16:9 single environment plate. Hotel manager's private office: worn dark wood desk empty on top except fixed green banker lamp, high-backed chair, closed filing cabinet, large closed gray wall safe with blank inset panel for puzzle overlay, dark curtains. Controlled amber lighting, quietly oppressive. No papers or keys or portraits or people, no text.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-93796fa1-0d73-4ef5-9080-7a4e2fef6aef.png"
+  },
+  {
+    "id": "BG31",
+    "folder": "backgrounds",
+    "name": "L15_boiler",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Wide 16:9 single environment plate. Hotel basement boiler room: large aged cylindrical boiler, pipe manifold across concrete wall with five empty circular mount points for separate puzzle valve overlay, narrow service door, wet concrete floor, sparse dim utility lamp and cold blue shadow. No steam obscuring puzzle, no loose objects, no people, no text. Atmospheric but readable.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-5cdc6f17-559f-4cc9-a2f7-ed15ec721399.png"
+  },
+  {
+    "id": "BG36",
+    "folder": "backgrounds",
+    "name": "F13A_loop_base",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single wide 16:9 environment plate: impossibly long empty hotel corridor, green wooden doors, cold blue-gray light, dull red distant glow, faded patterned carpet, two blank framed pictures and empty door plaques designed to receive separate puzzle details. Same aging Vietnamese hotel but subtly disorienting repeated architecture, readable central doors, no people, no figures, no numbers or text. A base plate for spot-the-difference puzzle, not multiple panels.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-0df37d52-e231-4830-a368-02fdf14e71f1.png"
+  },
+  {
+    "id": "BG38",
+    "folder": "backgrounds",
+    "name": "F13B_ballroom",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single wide 16:9 environment plate: abandoned burned hotel banquet room, partly collapsed chairs, charred wood, blue-gray moonlight, faint dull orange ember glow, broad empty banquet table in foreground for separate five-candle puzzle, a CLOSED wooden cabinet at rear for the hidden musicbox, another tall closed wardrobe at left for hiding. NO music box on table, NO candles baked into table, no people, no gore, no text. Room remains legible.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-2f93da88-5173-4b24-91da-737db0544e53.png"
+  },
+  {
+    "id": "BG45",
+    "folder": "backgrounds",
+    "name": "F13D_altar",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single wide 16:9 frontal environment plate of a memorial chamber inside burned hotel lounge. EXACTLY twelve small empty memorial niches arranged six left and six right, each side a 2 column by 3 row grid. A central human-sized open dark doorway between the two grids is the thirteenth place. Worn ash-black wood and plaster, simple low ledges beneath niches for items, blank nameplates, no objects in niches, no people, no lettering. Faint warm light in center, cool blue-gray edges. Clearly countable niches, symmetrical yet unsettling.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-176f2de3-078b-468f-a6be-473d6a360d39.png"
+  },
+  {
+    "id": "BG29",
+    "folder": "backgrounds",
+    "name": "L14_rooftop",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single wide 16:9 environment plate: weathered Vietnamese hotel rooftop at night, water tank and antenna, simple parapet, a large old signal floodlight on an outward projecting bracket at right, its beam OFF, accessible switch box with blank face, exterior metal stair exit at left. Blue moonlight, faint distant city buildings, moss and concrete, no people, no text. Center walkway clear.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-07b856d2-dccc-49d4-8899-ad05487122e7.png"
+  },
+  {
+    "id": "I02",
+    "folder": "items",
+    "name": "locket_closed",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single inventory item illustration, detailed enough for close inspection, silhouette legible at small icon size. One old small silver heart-shaped locket pendant on a delicate loosely looped silver chain, closed, a tiny plain round rivet at center and subtle edge engraving with no letters. Match the silver heart necklace worn by a Vietnamese young hotel receptionist. Three quarter view, centered, entire chain visible with margin. True transparent alpha background, NO backdrop or vignette or glow or floor or cast shadow outside object. No label, no title, no text, no collage. Hand painted watercolor, soft amber highlights.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-2e77b7ee-5da7-482e-bf35-fa5b4c2ba920.png"
+  },
+  {
+    "id": "M01",
+    "folder": "items",
+    "name": "musicbox_closed",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single inventory item illustration, detailed enough for close inspection, silhouette legible at small icon size. One small closed rectangular walnut wooden mechanical music box, subtly scorched lid edges, delicate modest lotus carving on lid, tiny brass winding key on right, concealed drawer seam at base for a hidden letter. A treasured mother's keepsake from 2004. Three quarter view from above, centered with generous margin. True transparent alpha background, NO backdrop or vignette or glow or floor or cast shadow outside object. No label, no title, no text, no collage. Hand painted watercolor, soft amber highlights.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-7636d959-f42e-40d9-85cc-676e546f841c.png"
+  },
+  {
+    "id": "M02",
+    "folder": "items",
+    "name": "pocketwatch",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single inventory item illustration, detailed enough for close inspection, silhouette legible at small icon size. One antique gold pocket watch, open faced, thin chain loosely coiled, cream face with conventional twelve hour marks, hands indicating 00:13 (minute hand just past numeral 2; hour hand just past 12). No extra watches or accessories, clear single circular dial. Three quarter view, centered with margin. True transparent alpha background, NO backdrop or vignette or glow or floor or cast shadow outside object. No label, no title, no text, no collage. Hand painted watercolor, soft amber highlights.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-b2c9f632-5670-47bc-bf0b-da46c87ac34e.png"
+  },
+  {
+    "id": "M04",
+    "folder": "items",
+    "name": "camera",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single inventory item illustration, detailed enough for close inspection, silhouette legible at small icon size. One worn unbranded black and silver 35mm film camera from around 2000, compact SLR with a short lens and worn black strap lying close to body, slight ash dust, closed camera back. A missing journalist's keepsake. Three quarter view front, centered with generous margin. True transparent alpha background, NO backdrop or vignette or glow or floor or cast shadow outside object. No label, no title, no text, no collage. Hand painted watercolor, soft amber highlights.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-c29a50e8-3c29-4dad-93be-12f51aae0250.png"
+  },
+  {
+    "id": "NPC04",
+    "folder": "characters",
+    "name": "ngo_neutral",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single waist-up portrait of Ngo Thi Le, a Vietnamese woman age 70, lined face, silver hair in a low bun, thick reading glasses, plain dark brown ao ba ba blouse and worn charcoal knitted scarf, reserved searching expression. Delicate watercolor pencil painting, no backdrop, isolated person only. Actual transparent alpha background, absolutely no painted background, no vignette, no gradient around subject, no text or border.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-e308d9fd-75bd-4e3b-acca-01dc10a16a1c.png"
+  },
+  {
+    "id": "NPC06",
+    "folder": "characters",
+    "name": "thuha_spirit",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single waist-up portrait of Thu Ha, Vietnamese mother around age 30 in 2004, gentle oval face, long straight black hair, simple faded cream housekeeping blouse, tender faint smile, slightly translucent spirit with narrow soft warm rim light strictly hugging the silhouette. Hand painted watercolor graphite, isolated person only. No background aura or oval backdrop. Actual transparent alpha background, absolutely no painted background, no vignette, no gradient around subject, no text or border.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-fa990307-993b-4813-add1-217b1ae4094f.png"
+  },
+  {
+    "id": "SP03",
+    "folder": "characters",
+    "name": "raincoat",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single full-body silhouette sprite of an unnaturally still tall man in an old dark translucent plastic raincoat, hood lowered over face completely hiding features, arms hanging quietly, closed coat, ordinary shoes, no weapon, no gore. Muted blue gray hand-painted watercolor pencil, restrained psychological horror, full figure with space all around, no environment or ground shadow. Actual transparent alpha background, absolutely no painted background, no vignette, no gradient around subject, no text or border.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-297cbb74-b3bf-40e0-afe6-694348fd67c4.png"
+  },
+  {
+    "id": "NPC00B",
+    "folder": "characters",
+    "name": "chau_child",
+    "prompt": "Production asset for a Vietnamese psychological horror point-and-click game, The Hotel With No 13th Floor. Hand painted dark watercolor and graphite contours, textured paper, believable Vietnamese hotel late-1990s decor in 2024, NOT photorealistic, NOT glossy 3D, NOT anime. Muted palette charcoal #14110F, ochre #E0B15A, moss #2F4A45, ivory #EDE6D5; restrained blue gray in supernatural scenes. High legibility and carefully composed lighting. No UI, no watermark, no decorative border. Single full-body character illustration of a Vietnamese six-year-old girl in 2004, straight black shoulder-length hair, simple faded cream cotton shirt and knee-length moss green skirt, small CLOSED silver heart locket, sandals, worried but unharmed. Age-appropriate ordinary child, hand painted watercolor pencil, full figure with margin, no scenery. Actual transparent alpha background, absolutely no painted background, no vignette, no gradient around subject, no text or border.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-eb43d6fa-5b8a-4461-aabf-8b842708cea0.png"
+  },
+  {
+    "id": "NPC01_clean",
+    "folder": "work",
+    "name": "alpha_repair",
+    "prompt": "Background removal only. Preserve the exact subject, face or object geometry, colors, painterly details, pose and framing in this image. Remove ALL of the painted brown/gray glow, vignette, halo and backdrop around it. Output a clean isolated cutout on actual alpha transparency. Every pixel outside the physical subject must be fully transparent, including holes and gaps in the chain if applicable. No new background or shadow, no other edits.",
+    "reference": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-57129631-99df-4450-ac0b-b2194b447a96.png",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-00aec5f3-9920-4f6f-b7ae-55093126cda3.png"
+  },
+  {
+    "id": "NPC02_clean",
+    "folder": "work",
+    "name": "alpha_repair",
+    "prompt": "Background removal only. Preserve the exact subject, face or object geometry, colors, painterly details, pose and framing in this image. Remove ALL of the painted brown/gray glow, vignette, halo and backdrop around it. Output a clean isolated cutout on actual alpha transparency. Every pixel outside the physical subject must be fully transparent, including holes and gaps in the chain if applicable. No new background or shadow, no other edits.",
+    "reference": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-3f9057ec-f622-47a3-bbd0-58da6db9c978.png",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-3ec93766-beab-4949-87a3-1233fd34356f.png"
+  },
+  {
+    "id": "M01_clean",
+    "folder": "work",
+    "name": "alpha_repair",
+    "prompt": "Background removal only. Preserve the exact subject, face or object geometry, colors, painterly details, pose and framing in this image. Remove ALL of the painted brown/gray glow, vignette, halo and backdrop around it. Output a clean isolated cutout on actual alpha transparency. Every pixel outside the physical subject must be fully transparent, including holes and gaps in the chain if applicable. No new background or shadow, no other edits.",
+    "reference": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-7636d959-f42e-40d9-85cc-676e546f841c.png",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-ab307e8a-1d1f-4696-93d6-47aa076ec7e4.png"
+  },
+  {
+    "id": "I02_clean",
+    "folder": "work",
+    "name": "alpha_repair",
+    "prompt": "Background removal only. Preserve the exact subject, face or object geometry, colors, painterly details, pose and framing in this image. Remove ALL of the painted brown/gray glow, vignette, halo and backdrop around it. Output a clean isolated cutout on actual alpha transparency. Every pixel outside the physical subject must be fully transparent, including holes and gaps in the chain if applicable. No new background or shadow, no other edits.",
+    "reference": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-2e77b7ee-5da7-482e-bf35-fa5b4c2ba920.png",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-de0120f3-6ca4-4829-9d1d-6c0b43000367.png"
+  },
+  {
+    "id": "M03",
+    "folder": "items",
+    "name": "ledger",
+    "prompt": "A single isolated game inventory keepsake asset, hand-painted watercolor with graphite outlines, muted realistic vintage Vietnamese hotel 2004 materials, soft warm light, One old closed dark brown leather account ledger, frayed corners, cream page edges, narrow blank paper label on cover, three quarter view. No text. Generous empty margin around whole object. Genuine transparent background, no scene, no surface, no glow, no backdrop, no vignette, no text. Clean crisp silhouette, readable at small icon size.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-5a8920ec-179e-4d28-965d-9d693339ff88.png"
+  },
+  {
+    "id": "M05",
+    "folder": "items",
+    "name": "vinyl",
+    "prompt": "A single isolated game inventory keepsake asset, hand-painted watercolor with graphite outlines, muted realistic vintage Vietnamese hotel 2004 materials, soft warm light, One vintage black vinyl record with a faded ivory center label, faint scratches and a moss green paper sleeve behind it, no lettering. Generous empty margin around whole object. Genuine transparent background, no scene, no surface, no glow, no backdrop, no vignette, no text. Clean crisp silhouette, readable at small icon size.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-ca864fb0-e00f-446a-8a75-fd26ebb03959.png"
+  },
+  {
+    "id": "M06",
+    "folder": "items",
+    "name": "lighter",
+    "prompt": "A single isolated game inventory keepsake asset, hand-painted watercolor with graphite outlines, muted realistic vintage Vietnamese hotel 2004 materials, soft warm light, One closed small gold petrol lighter with modest floral engraving and light patina, upright three quarter view, no flame, no lettering. Generous empty margin around whole object. Genuine transparent background, no scene, no surface, no glow, no backdrop, no vignette, no text. Clean crisp silhouette, readable at small icon size.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-9508746f-582c-44a9-b342-8b5992169bdd.png"
+  },
+  {
+    "id": "M07",
+    "folder": "items",
+    "name": "bowtie",
+    "prompt": "A single isolated game inventory keepsake asset, hand-painted watercolor with graphite outlines, muted realistic vintage Vietnamese hotel 2004 materials, soft warm light, One worn black fabric bartender bow tie, a tiny blank cream sewn label visible along lower edge, gently folded cloth, centered. Generous empty margin around whole object. Genuine transparent background, no scene, no surface, no glow, no backdrop, no vignette, no text. Clean crisp silhouette, readable at small icon size.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-f6f45353-380c-477c-96dd-0daf190be61c.png"
+  },
+  {
+    "id": "M08",
+    "folder": "items",
+    "name": "whistle",
+    "prompt": "A single isolated game inventory keepsake asset, hand-painted watercolor with graphite outlines, muted realistic vintage Vietnamese hotel 2004 materials, soft warm light, One old tarnished silver security whistle with a short dark woven lanyard and a small folded yellowed paper tucked through the cord, blank paper, no lettering. Generous empty margin around whole object. Genuine transparent background, no scene, no surface, no glow, no backdrop, no vignette, no text. Clean crisp silhouette, readable at small icon size.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-d3e1312e-dc1c-41b3-8f85-8f0760e68a0b.png"
+  },
+  {
+    "id": "M09",
+    "folder": "items",
+    "name": "scarf",
+    "prompt": "Single inventory keepsake for Vietnamese psychological horror adventure. Hand painted watercolor with pencil contours, realistic modest vintage materials, muted palette, gentle amber highlights. One folded worn rust-brown wool scarf with one small singed corner, loose knit, a small blank sewn cloth tag at the edge, no lettering. Centered and fully visible with generous transparent margins. True transparent alpha, no painted background, no gradient, no glow or floor. No typography or border outside object.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-59d8d0ad-64a4-42fd-8a91-f74731839a82.png"
+  },
+  {
+    "id": "M10",
+    "folder": "items",
+    "name": "harmonica",
+    "prompt": "Single inventory keepsake for Vietnamese psychological horror adventure. Hand painted watercolor with pencil contours, realistic modest vintage materials, muted palette, gentle amber highlights. One old silver harmonica with dark wooden comb and ten clearly spaced mouth openings, subtle tarnish, no logo or lettering, three quarter view. Centered and fully visible with generous transparent margins. True transparent alpha, no painted background, no gradient, no glow or floor. No typography or border outside object.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-b1cb2868-c52f-48ac-b221-60e9293d913a.png"
+  },
+  {
+    "id": "M11",
+    "folder": "items",
+    "name": "ring",
+    "prompt": "Single inventory keepsake for Vietnamese psychological horror adventure. Hand painted watercolor with pencil contours, realistic modest vintage materials, muted palette, gentle amber highlights. One plain old gold wedding band, lying slightly tilted to show its inner surface, restrained highlights, fine scratches, no jewels or engraving text. Centered and fully visible with generous transparent margins. True transparent alpha, no painted background, no gradient, no glow or floor. No typography or border outside object.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-077f49f0-b9f1-41b6-96e7-d26f51ff8f35.png"
+  },
+  {
+    "id": "M12",
+    "folder": "items",
+    "name": "familyphoto",
+    "prompt": "Single inventory keepsake for Vietnamese psychological horror adventure. Hand painted watercolor with pencil contours, realistic modest vintage materials, muted palette, gentle amber highlights. One small tarnished rectangular metal photograph frame holding a faded warm sepia photograph of an ordinary Vietnamese family of three circa 2004: adult mother, adult father, young son, modest everyday clothing. The whole framed object isolated, centered, three quarter view, no extra objects or words. Centered and fully visible with generous transparent margins. True transparent alpha, no painted background, no gradient, no glow or floor. No typography or border outside object.",
+    "source": "C:\\Users\\Lenovo\\.codex\\generated_images\\01a10f47-1cb1-7f82-8ba2-d869076dd115\\exec-722e4f05-fe12-4f21-8928-a53f0f8a872a.png"
+  }
+]

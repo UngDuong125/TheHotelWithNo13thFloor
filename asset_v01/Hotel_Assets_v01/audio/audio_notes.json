@@ -1,0 +1,22 @@
+{
+  "sampleRate": 44100,
+  "channels": 1,
+  "format": "PCM16 WAV",
+  "source": "Original procedural synthesis; no third-party samples",
+  "motifNotesHz": [
+    523.251,
+    587.33,
+    659.255,
+    783.991,
+    880.0
+  ],
+  "motifOrder": [
+    3,
+    1,
+    4,
+    2,
+    5
+  ],
+  "morseUnitSeconds": 0.15,
+  "status": "Review mix; not final sound design or voice acting"
+}
