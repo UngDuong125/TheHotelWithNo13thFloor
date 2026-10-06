@@ -1,0 +1,7 @@
+# Bản nén trùng với thư mục asset, chia sẻ qua Release/Drive
+*.zip
+
+# Rác hệ điều hành
+Thumbs.db
+desktop.ini
+.DS_Store
